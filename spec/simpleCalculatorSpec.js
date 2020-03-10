@@ -1,4 +1,4 @@
-const { add, multiply } = require('../../src/simpleCalculatorSrc')
+const { add, multiply } = require('../src/simpleCalculatorSrc')
 
 describe("A simple calculator that adds", function() {
 
